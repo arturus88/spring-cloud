@@ -13,6 +13,7 @@
   <module>eureka</module>
   <module>payment-service</module>
   <module>user-service</module>
+  <module>zuul</module>
 </modules>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
